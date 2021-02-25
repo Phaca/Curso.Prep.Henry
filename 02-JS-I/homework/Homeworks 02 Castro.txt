@@ -1,0 +1,6 @@
+Homeworks 02 Castro
+Variables: Son muy importantes para guardar o almacenar valores (alfanuméricos), pueden o no cambiar su contenido y/o para usar mas tarde.
+Strings; son bloques de texto encerrados entre comillas
+Funciones (argumentos, return): Una función tiene un código a ejecutar. Comienza con una palabra clave function, después el nombre de la funcion y despues el código a ejecutar. Puede tener uno o multiples argumentos. La declaración "return" es la única forma en que los datos escapan de una función. No se puede acceder a nada más que a lo que se devuelve fuera de la función. Cuando una función llega a una declaración de retorno, la función detiene inmediatamente lo que está haciendo y "devuelve" lo especificado.
+Declaraciones if: sirve para comparar dos valores, (pueden ser variables), y devuelve true o false.
+Valores booleanos (true, false): Los valores booleanos pueden tener sólo dos estados, como 0 y 1, como true o false

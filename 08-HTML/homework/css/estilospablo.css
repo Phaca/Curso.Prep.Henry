@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(42, 42, 153);
+    background-color: #239fc5;
+    background-color: rgba(123,32,67,1);
+}
+h1{
+    color: blue;
+}
+.divClass{
+    color:red;
+    font-size: 25px;
+}
+#thirdDiv{
+    color:rgb(49, 235, 157);
+    font-size: 50px;
+}
+@media screen(min-width:468px){
+    body{
+        background-color:green;
+    }
+}
